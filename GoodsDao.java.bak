@@ -1,0 +1,22 @@
+class GoodsDao 
+<<<<<<< HEAD
+{	
+	public void insert(){
+		System.out.println("상품을 등록하였습니다.");
+	}
+
+	public void delete(){
+		System.out.println("상품을 삭제하였습니다.");
+	}
+
+=======
+{
+	public static void insertGoods(){
+		System.out.println("등록하였습니다.");
+	}
+
+	public void updateGoods(){
+		System.out.println("수정하였습니다.");
+	}
+>>>>>>> 623af50bbf5766e0f5093dae5192bda3c9354cda
+}
