@@ -4,7 +4,7 @@ class GoodsDao
 		System.out.println("등록하였습니다.");
 	}
 
-	public void updateGoods(){
+	public void update(){
 		System.out.println("수정하였습니다.");
 	}
 
